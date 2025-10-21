@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {0.1}What is this book?}{2}{section.0.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Why?}{2}{subsection.0.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Who is this for?}{2}{subsection.0.0.1.2}%
+\contentsline {subsubsection}{For my Mom}{2}{section*.1}%
+\contentsline {part}{I\hspace {1em}Computer Science}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Fundamentals of CS}{7}{chapter.1.1}%
+\contentsline {chapter}{\numberline {2}Programming Fundamentals II}{9}{chapter.1.2}%
+\contentsline {chapter}{\numberline {3}Foundations of CS II}{11}{chapter.1.3}%
+\contentsline {chapter}{\numberline {4}Assembly Language}{13}{chapter.1.4}%
+\contentsline {chapter}{\numberline {5}Computer Ethics}{15}{chapter.1.5}%
+\contentsline {chapter}{\numberline {6}Data Structures and Algorithms}{17}{chapter.1.6}%
+\contentsline {chapter}{\numberline {7}Object-Oriented Design and Programming}{19}{chapter.1.7}%
+\contentsline {chapter}{\numberline {8}Software Engineering}{21}{chapter.1.8}%
+\contentsline {chapter}{\numberline {9}Computer System Security}{23}{chapter.1.9}%
+\contentsline {part}{II\hspace {1em}Mathematics}{25}{part.2}%
+\contentsline {chapter}{\numberline {1}College Algebra}{27}{chapter.2.1}%
+\contentsline {chapter}{\numberline {2}Pre-Calculus Functions and Graphs}{29}{chapter.2.2}%
+\contentsline {chapter}{\numberline {3}Calculus I: Differential Calculus}{31}{chapter.2.3}%
+\contentsline {chapter}{\numberline {4}Calculus II: Integral Calculus}{33}{chapter.2.4}%
+\contentsline {chapter}{\numberline {5}Discrete Math}{35}{chapter.2.5}%
+\contentsline {chapter}{\numberline {6}Introduction to Probability and Statistics}{37}{chapter.2.6}%
+\contentsline {chapter}{\numberline {7}Advanced Probability and Statistics}{39}{chapter.2.7}%
+\contentsline {chapter}{\numberline {8}Linear Algebra}{41}{chapter.2.8}%
+\contentsline {part}{III\hspace {1em}Physics}{43}{part.3}%
+\contentsline {chapter}{\numberline {1}General Physics I}{45}{chapter.3.1}%
+\contentsline {part}{IV\hspace {1em}History}{47}{part.4}%
+\contentsline {chapter}{\numberline {1}US History to 1877}{49}{chapter.4.1}%
+\contentsline {chapter}{\numberline {2}US History to Date}{51}{chapter.4.2}%
+\contentsline {chapter}{\numberline {3}Principles of American Government}{53}{chapter.4.3}%
+\contentsline {chapter}{\numberline {4}Functions of American Government}{55}{chapter.4.4}%
+\contentsline {part}{V\hspace {1em}Electives}{57}{part.5}%
+\contentsline {chapter}{\numberline {1}Stellar Astronomy}{59}{chapter.5.1}%
+\contentsline {chapter}{\numberline {2}Introduction to Philosophy}{61}{chapter.5.2}%
+\contentsline {chapter}{\numberline {3}Fundamentals of Human Communication}{63}{chapter.5.3}%
+\contentsline {chapter}{\numberline {4}Technical Writing}{65}{chapter.5.4}%
+\contentsline {chapter}{\numberline {5}Introduction to Fine Arts}{67}{chapter.5.5}%
+\contentsline {part}{VI\hspace {1em}Language}{69}{part.6}%
+\contentsline {chapter}{\numberline {1}Spanish I}{71}{chapter.6.1}%
