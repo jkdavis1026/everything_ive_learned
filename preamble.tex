@@ -4,6 +4,7 @@
 \usepackage{lmodern}
 \usepackage[hidelinks]{hyperref}
 \usepackage{amsmath,amssymb}
+\usepackage[most]{tcolorbox}
 
 \makeatletter
 \@addtoreset{chapter}{part}
@@ -14,3 +15,42 @@
 
 \setlength{\parindent}{1em}
 \setlength{\parskip}{0pt}
+
+
+% Define a custom box style
+% \tcbset{
+%   mybox/.style={
+%     colback=gray!10,   % background color
+%     colframe=black,  % border color
+%     boxrule=0.5pt,     % border thickness
+%     arc=3pt,           % rounded corners
+%     left=6pt, right=6pt, top=4pt, bottom=4pt,
+%     enhanced,
+%   }
+% }
+
+\tcbset{
+  mybox/.style={
+    colback=gray!10,   % light gray background
+    colframe=black,    % black border
+    boxrule=0.5pt,     % border thickness
+    arc=1pt,           % rounded corners
+    left=6pt, right=6pt, top=4pt, bottom=4pt,
+    enhanced,
+    sharp corners=south,   % makes top look flat if you add a title
+    fonttitle=\bfseries,   % bold title (optional)
+    coltitle=black,        % title text color
+    title={},
+  }
+}
+
+% Define a custom "IMPORTANT" box based on mybox
+\tcbset{
+  important/.style={
+    mybox,                  % inherit from your mybox style
+    colback=red!10,         % light red background
+    colframe=red!60!black,  % darker red border
+    title=IMPORTANT,        % default title
+    fonttitle=\bfseries,    % bold title
+  }
+}

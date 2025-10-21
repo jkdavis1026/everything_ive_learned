@@ -11,16 +11,26 @@
 \contentsline {chapter}{\numberline {6}Data Structures and Algorithms}{17}{chapter.1.6}%
 \contentsline {chapter}{\numberline {7}Object-Oriented Design and Programming}{19}{chapter.1.7}%
 \contentsline {chapter}{\numberline {8}Software Engineering}{21}{chapter.1.8}%
+\contentsline {section}{\numberline {8.1}Music Recommendation App}{21}{section.1.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}The Idea Behind It}{21}{subsection.1.8.1.1}%
 \contentsline {chapter}{\numberline {9}Computer System Security}{23}{chapter.1.9}%
 \contentsline {part}{II\hspace {1em}Mathematics}{25}{part.2}%
 \contentsline {chapter}{\numberline {1}College Algebra}{27}{chapter.2.1}%
 \contentsline {chapter}{\numberline {2}Pre-Calculus Functions and Graphs}{29}{chapter.2.2}%
 \contentsline {chapter}{\numberline {3}Calculus I: Differential Calculus}{31}{chapter.2.3}%
 \contentsline {chapter}{\numberline {4}Calculus II: Integral Calculus}{33}{chapter.2.4}%
+\contentsline {section}{\numberline {4.1}How it ended}{33}{section.2.4.1}%
 \contentsline {chapter}{\numberline {5}Discrete Math}{35}{chapter.2.5}%
 \contentsline {chapter}{\numberline {6}Introduction to Probability and Statistics}{37}{chapter.2.6}%
 \contentsline {chapter}{\numberline {7}Advanced Probability and Statistics}{39}{chapter.2.7}%
 \contentsline {chapter}{\numberline {8}Linear Algebra}{41}{chapter.2.8}%
+\contentsline {section}{\numberline {8.1}Matrix Algebra and Systems of Linear Equations}{41}{section.2.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Systems of Linear Equations}{41}{subsection.2.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Ways to represent Systems of Linear Equations}{42}{subsection.2.8.1.2}%
+\contentsline {subsubsection}{Coefficient Matrix}{42}{section*.3}%
+\contentsline {subsubsection}{Adjacency Matrix}{42}{section*.4}%
+\contentsline {subsubsection}{now what?}{42}{section*.5}%
+\contentsline {section}{\numberline {8.2}Row Reduction}{42}{section.2.8.2}%
 \contentsline {part}{III\hspace {1em}Physics}{43}{part.3}%
 \contentsline {chapter}{\numberline {1}General Physics I}{45}{chapter.3.1}%
 \contentsline {part}{IV\hspace {1em}History}{47}{part.4}%
@@ -36,3 +46,6 @@
 \contentsline {chapter}{\numberline {5}Introduction to Fine Arts}{67}{chapter.5.5}%
 \contentsline {part}{VI\hspace {1em}Language}{69}{part.6}%
 \contentsline {chapter}{\numberline {1}Spanish I}{71}{chapter.6.1}%
+\contentsline {part}{VII\hspace {1em}Experiences}{73}{part.7}%
+\contentsline {chapter}{\numberline {1}What Went Right}{75}{chapter.7.1}%
+\contentsline {section}{\numberline {1.1}Group Projects}{75}{section.7.1.1}%
