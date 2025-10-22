@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.10.20)  21 OCT 2025 20:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.10.20)  21 OCT 2025 21:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -715,10 +715,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 15.
 ) [2] (out_dir/main.toc [3
 
-]
-Underfull \vbox (badness 1577) has occurred while \output is active []
-
- [4])
+] [4])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -768,7 +765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--55
 
  []
 
-</home/yancy/projects/everything_ive_learned/images//zero_day.png, id=426, 574.145pt x 232.87pt>
+</home/yancy/projects/everything_ive_learned/images//zero_day.png, id=441, 574.145pt x 232.87pt>
 File: /home/yancy/projects/everything_ive_learned/images//zero_day.png Graphic file (type png)
 <use /home/yancy/projects/everything_ive_learned/images//zero_day.png>
 Package pdftex.def Info: /home/yancy/projects/everything_ive_learned/images//zero_day.png  used on input line 61.
@@ -807,81 +804,100 @@ Chapter 7.
 
 ]
 Chapter 8.
-(./sections/math/linear_algebra.tex [45]) [46] [47
+(./sections/math/linear_algebra.tex [45] [46]
+</home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png, id=559, 1160.335pt x 1080.035pt>
+File: /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png Graphic file (type png)
+<use /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png>
+Package pdftex.def Info: /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png  used on input line 115.
+(pdftex.def)             Requested size: 200.75073pt x 186.85008pt.
 
-] [48]
+Overfull \hbox (26.39346pt too wide) in paragraph at lines 127--128
+[]\T1/lmr/m/n/10.95 Now, lets do some ac-tual math, shall we? Let us use the same ex-am-ple as above, $[] \OMS/lmsy/m/n/10.95 2
+ []
+
+</home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png, id=560, 600.2425pt x 598.235pt>
+File: /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png Graphic file (type png)
+<use /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png>
+Package pdftex.def Info: /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png  used on input line 132.
+(pdftex.def)             Requested size: 200.75073pt x 200.0745pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47 </home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png>]) [48 </home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png>] [49
+
+] [50]
 Chapter 1.
-[49
+[51
 
-] [50
+] [52
 
-] [51] [52]
+] [53] [54]
 Chapter 1.
-[53
+[55
 
-] [54
+] [56
 
 ]
 Chapter 2.
-[55] [56
-
-]
-Chapter 3.
 [57] [58
 
 ]
-Chapter 4.
+Chapter 3.
 [59] [60
 
-] [61] [62]
-Chapter 1.
-[63
+]
+Chapter 4.
+[61] [62
 
-] [64
+] [63] [64]
+Chapter 1.
+[65
+
+] [66
 
 ]
 Chapter 2.
-[65] [66
-
-]
-Chapter 3.
 [67] [68
 
 ]
-Chapter 4.
+Chapter 3.
 [69] [70
 
 ]
-Chapter 5.
+Chapter 4.
 [71] [72
 
-] [73] [74]
-Chapter 1.
-[75
+]
+Chapter 5.
+[73] [74
 
-] [76
-
-] [77] [78] (./sections/experiences/what_went_right.tex
+] [75] [76]
 Chapter 1.
-) [79
+[77
+
+] [78
+
+] [79] [80] (./sections/experiences/what_went_right.tex
+Chapter 1.
+) [81
 
 ] (out_dir/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2DAF65FE06CCB5C9D0DAF38FA0DBD329;8492.
+(rerunfilecheck)             Checksum: C936ACC7C8C8642454B77AB90F00183B;8940.
  ) 
 Here is how much of TeX's memory you used:
- 27767 strings out of 480247
- 555164 string characters out of 5896150
- 841203 words of memory out of 5000000
- 45019 multiletter control sequences out of 15000+600000
+ 27796 strings out of 480247
+ 556349 string characters out of 5896150
+ 843206 words of memory out of 5000000
+ 45038 multiletter control sequences out of 15000+600000
  552798 words of font info for 80 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 104i,17n,107p,676b,891s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on out_dir/main.pdf (79 pages, 389052 bytes).
+ 104i,17n,107p,734b,891s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on out_dir/main.pdf (81 pages, 642921 bytes).
 PDF statistics:
- 801 PDF objects out of 1000 (max. 8388607)
- 652 compressed objects within 7 object streams
- 155 named destinations out of 1000 (max. 500000)
- 578 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 838 PDF objects out of 1000 (max. 8388607)
+ 681 compressed objects within 7 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 612 words of extra memory for PDF output out of 10000 (max. 10000000)
 

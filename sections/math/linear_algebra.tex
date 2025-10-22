@@ -109,3 +109,26 @@ close and close this book, or you can see the better way.
 (Don't worry, we will solve the OJ problem (no, not whether the glove fit, Orange Juice)),
 
 
+\section{Vector Spaces and Subspaces}
+\subsection{Vector Spaces}
+Vector Spaces are the areas (spaces) where vectors can "live", based on predefined parameters that can be \textit{added} and \textit{scaled} while satisfying 10 properties listed in the book (The important ones are listed.). If we think of a vector space say, H = \( \left\{ \begin{bmatrix} x \\ y \end{bmatrix}  : x \geq 0, y \geq 0 \right\} \in \mathbb{R}^2 \gets\) says \textit{A vector} \(x\) and \(y\) \textit{should be greater than 0 for both values, and would therefore fall in that vector space.} On a Cartesian plane (I swear, if you need to ask what this is), it would look something like this:
+\begin{center} \includegraphics[width=200px]{8.3_vec_spaces.png} \end{center}
+This then must satisfy 10 different properties (found in the text book, but I am only going to explain the 3 that we said to be the most useful. You can look up the other 7 if you have to.)
+\begin{enumerate}
+    \item The vector being tested must satisfy the \textbf{zero vector}.
+    \item It must be \textbf{closed under addition} (In this example, it must be in \(\mathbb{R}^2\))
+    \item It must be \textbf{closed under multiplication}. (Same thing, must be in \(\mathbb{R}^2\))
+\end{enumerate}
+
+\begin{tcolorbox}[mybox]
+    In simplest terms, this just means that \(\vec{v} + \vec{w}\) and \(c\vec{w}\) must \textbf{stay in the set.}
+\end{tcolorbox}
+
+Now, lets do some actual math, shall we? Let us use the same example as above, \( \left\{ \begin{bmatrix} x \\ y \end{bmatrix}  : x \geq 0, y \geq 0 \right\} \in \mathbb{R}^2 \) and we have two vectors: \(\vec{w} = \begin{bmatrix} 2 \\ 1 \end{bmatrix}\) and \(\vec{u} = \begin{bmatrix} 1 \\ 1 \end{bmatrix}\).
+
+
+
+
+\begin{center} \includegraphics[width=200px]{8.3_vec_spaces_2.png} \end{center}
+\subsection{Subspaces}
+\textbf{Subspaces} are spaces in a \textit{vector space}. It's really just a more restricted area of the entire vector space that is being tested against. For example, when it says a vector that is in \(\mathbb{P}_n\), it's saying \textit{ a vector that is in the \textbf{BIGGER} set of } \(\mathbb{P}_n\)

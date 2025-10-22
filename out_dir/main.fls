@@ -1111,6 +1111,16 @@ INPUT ./sections/math/linear_algebra.tex
 INPUT sections/math/linear_algebra.tex
 INPUT ./sections/math/linear_algebra.tex
 INPUT sections/math/linear_algebra.tex
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png
+INPUT /home/yancy/projects/everything_ive_learned/images//8.3_vec_spaces_2.png
 INPUT ./sections/experiences/what_went_right.tex
 INPUT sections/experiences/what_went_right.tex
 INPUT ./sections/experiences/what_went_right.tex
@@ -1140,3 +1150,4 @@ INPUT /usr/share/texmf/fonts/type1/public/lm/lmri10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmri9.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmro10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
